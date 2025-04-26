@@ -12,7 +12,7 @@ This repository contains the backend and frontend code for the User Authenticati
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/OlamidotunIY/user-auth-parsing-app.git
    cd user-auth-parsing-app/Backend
    ```
 
